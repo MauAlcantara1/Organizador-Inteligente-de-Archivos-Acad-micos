@@ -7,6 +7,12 @@ def iniciandoAnalisis():
     print("Iniciando analisis de archivo")
     print("Tamaño del archivo:", os.path.getsize("alumnos"))
     print("Último acceso:", datetime.datetime.fromtimestamp(timestamp))
+
+def organizar_archivos():
+    print("Creando los directorios de guardado")
+    os.makedirs(ruta, exist_ok=True)
+    print("Analizando todos los archivos en el directorio, recuerda que las carpetas deben tener un orden")
+
     
 alumnos_iniciales = {
     "Mariana": "10",
