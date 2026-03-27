@@ -1,0 +1,300 @@
+## Español
+
+# Organizador Inteligente de Archivos Académicos
+
+Sistema desarrollado en Python para organizar, clasificar y analizar automáticamente archivos académicos utilizando información contextual a partir de sus nombres.
+
+---
+
+## Descripción
+
+Este proyecto automatiza la organización de archivos dentro de un directorio mediante el análisis tanto de su **tipo de archivo** como de su **significado semántico** (palabras clave en el nombre).
+
+Está especialmente diseñado para entornos académicos donde se manejan archivos como certificados, colegiaturas y registros de alumnos.
+
+A diferencia de un organizador tradicional, este sistema no solo clasifica por extensión, sino que también interpreta el contexto del archivo.
+
+---
+
+## Funcionalidades
+
+### Organización Inteligente de Archivos
+
+* Mueve automáticamente archivos a carpetas específicas:
+
+  * Imágenes → `/imagenes/`
+  * Archivos de texto → `/alumnos/`
+* Clasificación basada en palabras clave:
+
+  * `certificado` → `/imagenes/certificados/`
+  * `colegiatura` → `/imagenes/colegiaturas/`
+
+---
+
+### Clasificación Basada en Contexto
+
+* Extrae información estructurada desde el nombre del archivo
+* Ejemplo:
+
+  * `grupoA_grado1.txt` → `/alumnos/grado1/grupoA/`
+
+---
+
+### Análisis de Archivos
+
+* Muestra metadatos como:
+
+  * Tamaño del archivo
+  * Fecha de última modificación
+  * Ruta del archivo
+
+---
+
+### Sistema de Logs
+
+* Registra la actividad del sistema en `log.txt`
+* Ejemplo:
+
+  ```
+  [2026-03-26 20:10:00] Archivo movido: certificado_Mariana.jpg → imagenes/certificados/
+  [2026-03-26 20:11:00] Análisis de alumnos realizado
+  ```
+
+---
+
+## Estructura del Proyecto
+
+```
+project/
+│
+├── main.py
+├── log.txt
+│
+├── imagenes/
+│   ├── certificados/
+│   └── colegiaturas/
+│
+└── alumnos/
+    └── grado1/
+        └── grupoA/
+```
+
+---
+
+## ¿Cómo funciona?
+
+1. El sistema escanea el directorio de trabajo
+2. Identifica los tipos de archivo (`.txt`, `.jpg`, `.png`, etc.)
+3. Extrae palabras clave de los nombres
+4. Determina la ruta de destino
+5. Crea carpetas si no existen
+6. Mueve los archivos automáticamente
+7. Registra todas las acciones en el log
+
+---
+
+## Uso
+
+```bash
+python main.py
+```
+
+Asegúrate de que los archivos sigan una convención de nombres como:
+
+```
+certificado_Mariana.jpg
+colegiatura_Alan.png
+grupoA_grado1.txt
+```
+
+---
+
+## Tecnologías Utilizadas
+
+* Python 3
+* os (manejo del sistema de archivos)
+* shutil (movimiento de archivos)
+* datetime (fechas y logs)
+
+---
+
+## Mejoras Futuras
+
+* Interfaz de línea de comandos (CLI) con argumentos
+* Soporte para más tipos de archivos (PDF, Excel, etc.)
+* Integración con pandas para análisis de datos
+* Visualización de datos (gráficas)
+* Mejor manejo de errores y validaciones
+
+---
+
+## Mau Alcantara
+
+Desarrollado como parte del aprendizaje en Python, automatización y análisis de datos.
+
+---
+
+## ¿Por qué es relevante este proyecto?
+
+Este proyecto demuestra:
+
+* Automatización de sistema de archivos
+* Procesamiento y análisis de strings
+* Programación modular
+* Resolución de problemas del mundo real
+
+---
+
+## Licencia
+
+Proyecto de código abierto disponible para fines educativos.
+
+
+## INGLES
+
+# Smart Academic File Organizer
+
+A Python-based system designed to automatically organize, classify, and analyze academic-related files using contextual information from file names.
+
+---
+
+## Overview
+
+This project automates the organization of files in a directory by analyzing both their **file type** and **semantic meaning** (keywords in filenames). It is particularly designed for academic environments where files such as student records, certificates, and tuition receipts are frequently handled.
+
+Instead of organizing files only by extension, this system intelligently places them into structured directories based on their **content context**.
+
+---
+
+## Features
+
+### Intelligent File Organization
+
+* Automatically moves files into categorized folders:
+
+  * Images → `/imagenes/`
+  * Text files → `/alumnos/`
+* Uses keywords to determine subcategories:
+
+  * `certificado` → `/imagenes/certificados/`
+  * `colegiatura` → `/imagenes/colegiaturas/`
+
+---
+
+### Context-Aware Classification
+
+* Extracts structured information from filenames
+* Example:
+
+  * `grupoA_grado1.txt` → `/alumnos/grado1/grupoA/`
+
+---
+
+### File Analysis
+
+* Displays file metadata:
+
+  * File size
+  * Last modification date
+  * File path
+
+---
+
+### Logging System
+
+* Records system activity in `log.txt`
+* Example:
+
+  ```
+  [2026-03-26 20:10:00] File moved: certificado_Mariana.jpg → imagenes/certificados/
+  [2026-03-26 20:11:00] Student data analyzed
+  ```
+
+---
+
+## Project Structure
+
+```
+project/
+│
+├── main.py
+├── log.txt
+│
+├── imagenes/
+│   ├── certificados/
+│   └── colegiaturas/
+│
+└── alumnos/
+    └── grado1/
+        └── grupoA/
+```
+
+---
+
+## How It Works
+
+1. The system scans the working directory
+2. Identifies file types (`.txt`, `.jpg`, `.png`, etc.)
+3. Extracts keywords from filenames
+4. Determines the correct destination path
+5. Creates directories if needed
+6. Moves files accordingly
+7. Logs all actions
+
+---
+
+## Usage
+
+```bash
+python main.py
+```
+
+Make sure your files follow a naming convention such as:
+
+```
+certificado_Mariana.jpg
+colegiatura_Alan.png
+grupoA_grado1.txt
+```
+
+---
+
+## Technologies Used
+
+* Python 3
+* os (file system operations)
+* shutil (file movement)
+* datetime (logging and timestamps)
+
+---
+
+## Future Improvements
+
+* Command-line interface (CLI) with arguments
+* Support for more file types (PDF, Excel, etc.)
+* Integration with pandas for advanced data analysis
+* Data visualization (charts)
+* Error handling and validation improvements
+
+---
+
+## Mau Alcantara 
+
+Developed as part of a learning journey in Python, automation, and data analysis.
+
+---
+
+## Why This Project Matters
+
+This project demonstrates:
+
+* File system automation
+* String parsing and pattern recognition
+* Modular programming
+* Real-world problem solving
+
+---
+
+## License
+
+This project is open-source and available for educational purposes.
