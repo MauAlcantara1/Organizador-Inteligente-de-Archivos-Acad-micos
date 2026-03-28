@@ -1,0 +1,134 @@
+[2026-03-28 01:12:48] Iniciando verificación/creación de estructura de directorios...
+[2026-03-28 01:13:20] Iniciando verificación/creación de estructura de directorios...
+[2026-03-28 01:13:20] Directorio creado: alumnos\grado1\grupoA
+[2026-03-28 01:13:20] Directorio creado: alumnos\grado1\grupoB
+[2026-03-28 01:13:20] Directorio creado: alumnos\grado2\grupoA
+[2026-03-28 01:13:20] Directorio creado: alumnos\grado2\grupoB
+[2026-03-28 01:13:20] Directorio creado: alumnos\grado3\grupoA
+[2026-03-28 01:13:20] Directorio creado: alumnos\grado3\grupoB
+[2026-03-28 01:13:20] Directorio creado: img\certificados\grado1\grupoA
+[2026-03-28 01:13:20] Directorio creado: img\certificados\grado1\grupoB
+[2026-03-28 01:13:20] Directorio creado: img\certificados\grado1\grupoC
+[2026-03-28 01:13:20] Directorio creado: img\certificados\grado2\grupoA
+[2026-03-28 01:13:20] Directorio creado: img\certificados\grado2\grupoB
+[2026-03-28 01:13:20] Directorio creado: img\certificados\grado2\grupoC
+[2026-03-28 01:13:20] Directorio creado: img\certificados\grado3\grupoA
+[2026-03-28 01:13:20] Directorio creado: img\certificados\grado3\grupoB
+[2026-03-28 01:13:20] Directorio creado: img\certificados\grado3\grupoC
+[2026-03-28 01:13:20] Directorio creado: img\colegiaturas\grado1\grupoA
+[2026-03-28 01:13:20] Directorio creado: img\colegiaturas\grado1\grupoB
+[2026-03-28 01:13:20] Directorio creado: img\colegiaturas\grado1\grupoC
+[2026-03-28 01:13:20] Directorio creado: img\colegiaturas\grado2\grupoA
+[2026-03-28 01:13:20] Directorio creado: img\colegiaturas\grado2\grupoB
+[2026-03-28 01:13:20] Directorio creado: img\colegiaturas\grado2\grupoC
+[2026-03-28 01:13:20] Directorio creado: img\colegiaturas\grado3\grupoA
+[2026-03-28 01:13:20] Directorio creado: img\colegiaturas\grado3\grupoB
+[2026-03-28 01:13:20] Directorio creado: img\colegiaturas\grado3\grupoC
+[2026-03-28 01:13:20] Estructura de directorios lista.
+
+[2026-03-28 01:13:20] Iniciando organización de archivos en: C:\Users\Mau\Desktop\Escuela\Semestres\personales\python\clases
+[2026-03-28 01:13:20] [OMITIDO] No se pudo determinar destino para: analizar_alumnos.py
+[2026-03-28 01:13:20] [OMITIDO] No se pudo determinar destino para: analizar_archivos.py
+[2026-03-28 01:13:20] [OMITIDO] No se pudo determinar destino para: historial.py
+[2026-03-28 01:13:20] [OMITIDO] No se pudo determinar destino para: LICENSE
+[2026-03-28 01:13:20] [OMITIDO] No se pudo determinar destino para: organizar_archivos.py
+[2026-03-28 01:13:20] [OMITIDO] No se pudo determinar destino para: README
+[2026-03-28 01:13:20] Organización completada.
+
+[2026-03-28 01:40:04] Iniciando verificación/creación de estructura de directorios...
+[2026-03-28 01:40:04] Directorio creado: alumnos\grado1\grupoA
+[2026-03-28 01:40:04] Directorio creado: alumnos\grado1\grupoB
+[2026-03-28 01:40:04] Directorio creado: alumnos\grado2\grupoA
+[2026-03-28 01:40:04] Directorio creado: alumnos\grado2\grupoB
+[2026-03-28 01:40:04] Directorio creado: alumnos\grado3\grupoA
+[2026-03-28 01:40:04] Directorio creado: alumnos\grado3\grupoB
+[2026-03-28 01:40:04] Directorio creado: img\certificados\grado1\grupoA
+[2026-03-28 01:40:04] Directorio creado: img\certificados\grado1\grupoB
+[2026-03-28 01:40:04] Directorio creado: img\certificados\grado1\grupoC
+[2026-03-28 01:40:04] Directorio creado: img\certificados\grado2\grupoA
+[2026-03-28 01:40:04] Directorio creado: img\certificados\grado2\grupoB
+[2026-03-28 01:40:04] Directorio creado: img\certificados\grado2\grupoC
+[2026-03-28 01:40:04] Directorio creado: img\certificados\grado3\grupoA
+[2026-03-28 01:40:04] Directorio creado: img\certificados\grado3\grupoB
+[2026-03-28 01:40:04] Directorio creado: img\certificados\grado3\grupoC
+[2026-03-28 01:40:04] Directorio creado: img\colegiaturas\grado1\grupoA
+[2026-03-28 01:40:04] Directorio creado: img\colegiaturas\grado1\grupoB
+[2026-03-28 01:40:04] Directorio creado: img\colegiaturas\grado1\grupoC
+[2026-03-28 01:40:04] Directorio creado: img\colegiaturas\grado2\grupoA
+[2026-03-28 01:40:04] Directorio creado: img\colegiaturas\grado2\grupoB
+[2026-03-28 01:40:04] Directorio creado: img\colegiaturas\grado2\grupoC
+[2026-03-28 01:40:04] Directorio creado: img\colegiaturas\grado3\grupoA
+[2026-03-28 01:40:04] Directorio creado: img\colegiaturas\grado3\grupoB
+[2026-03-28 01:40:04] Directorio creado: img\colegiaturas\grado3\grupoC
+[2026-03-28 01:40:04] Estructura de directorios lista.
+
+[2026-03-28 01:40:04] Iniciando organización de archivos en: C:\Users\Mau\Desktop\Escuela\Semestres\personales\python\clases
+[2026-03-28 01:40:04] [OMITIDO] No se pudo determinar destino para: LICENSE
+[2026-03-28 01:40:04] [OMITIDO] No se pudo determinar destino para: README
+[2026-03-28 01:40:04] Organización completada.
+
+[2026-03-28 01:40:59] Iniciando verificación/creación de estructura de directorios...
+[2026-03-28 01:40:59] Directorio ya existe: alumnos\grado1\grupoA
+[2026-03-28 01:40:59] Directorio ya existe: alumnos\grado1\grupoB
+[2026-03-28 01:40:59] Directorio ya existe: alumnos\grado2\grupoA
+[2026-03-28 01:40:59] Directorio ya existe: alumnos\grado2\grupoB
+[2026-03-28 01:40:59] Directorio ya existe: alumnos\grado3\grupoA
+[2026-03-28 01:40:59] Directorio ya existe: alumnos\grado3\grupoB
+[2026-03-28 01:40:59] Directorio ya existe: img\certificados\grado1\grupoA
+[2026-03-28 01:40:59] Directorio ya existe: img\certificados\grado1\grupoB
+[2026-03-28 01:40:59] Directorio ya existe: img\certificados\grado1\grupoC
+[2026-03-28 01:40:59] Directorio ya existe: img\certificados\grado2\grupoA
+[2026-03-28 01:40:59] Directorio ya existe: img\certificados\grado2\grupoB
+[2026-03-28 01:40:59] Directorio ya existe: img\certificados\grado2\grupoC
+[2026-03-28 01:40:59] Directorio ya existe: img\certificados\grado3\grupoA
+[2026-03-28 01:40:59] Directorio ya existe: img\certificados\grado3\grupoB
+[2026-03-28 01:40:59] Directorio ya existe: img\certificados\grado3\grupoC
+[2026-03-28 01:40:59] Directorio ya existe: img\colegiaturas\grado1\grupoA
+[2026-03-28 01:40:59] Directorio ya existe: img\colegiaturas\grado1\grupoB
+[2026-03-28 01:40:59] Directorio ya existe: img\colegiaturas\grado1\grupoC
+[2026-03-28 01:40:59] Directorio ya existe: img\colegiaturas\grado2\grupoA
+[2026-03-28 01:40:59] Directorio ya existe: img\colegiaturas\grado2\grupoB
+[2026-03-28 01:40:59] Directorio ya existe: img\colegiaturas\grado2\grupoC
+[2026-03-28 01:40:59] Directorio ya existe: img\colegiaturas\grado3\grupoA
+[2026-03-28 01:40:59] Directorio ya existe: img\colegiaturas\grado3\grupoB
+[2026-03-28 01:40:59] Directorio ya existe: img\colegiaturas\grado3\grupoC
+[2026-03-28 01:40:59] Estructura de directorios lista.
+
+[2026-03-28 01:40:59] Iniciando organización de archivos en: C:\Users\Mau\Desktop\Escuela\Semestres\personales\python\clases
+[2026-03-28 01:40:59] [OMITIDO] No se pudo determinar destino para: LICENSE
+[2026-03-28 01:40:59] [OMITIDO] No se pudo determinar destino para: README
+[2026-03-28 01:40:59] Organización completada.
+
+[2026-03-28 01:44:30] Iniciando verificación/creación de estructura de directorios...
+[2026-03-28 01:44:30] Directorio ya existe: alumnos\grado1\grupoA
+[2026-03-28 01:44:30] Directorio ya existe: alumnos\grado1\grupoB
+[2026-03-28 01:44:30] Directorio ya existe: alumnos\grado2\grupoA
+[2026-03-28 01:44:30] Directorio ya existe: alumnos\grado2\grupoB
+[2026-03-28 01:44:30] Directorio ya existe: alumnos\grado3\grupoA
+[2026-03-28 01:44:30] Directorio ya existe: alumnos\grado3\grupoB
+[2026-03-28 01:44:30] Directorio ya existe: img\certificados\grado1\grupoA
+[2026-03-28 01:44:30] Directorio ya existe: img\certificados\grado1\grupoB
+[2026-03-28 01:44:30] Directorio ya existe: img\certificados\grado1\grupoC
+[2026-03-28 01:44:30] Directorio ya existe: img\certificados\grado2\grupoA
+[2026-03-28 01:44:30] Directorio ya existe: img\certificados\grado2\grupoB
+[2026-03-28 01:44:30] Directorio ya existe: img\certificados\grado2\grupoC
+[2026-03-28 01:44:30] Directorio ya existe: img\certificados\grado3\grupoA
+[2026-03-28 01:44:30] Directorio ya existe: img\certificados\grado3\grupoB
+[2026-03-28 01:44:30] Directorio ya existe: img\certificados\grado3\grupoC
+[2026-03-28 01:44:30] Directorio ya existe: img\colegiaturas\grado1\grupoA
+[2026-03-28 01:44:30] Directorio ya existe: img\colegiaturas\grado1\grupoB
+[2026-03-28 01:44:30] Directorio ya existe: img\colegiaturas\grado1\grupoC
+[2026-03-28 01:44:30] Directorio ya existe: img\colegiaturas\grado2\grupoA
+[2026-03-28 01:44:30] Directorio ya existe: img\colegiaturas\grado2\grupoB
+[2026-03-28 01:44:30] Directorio ya existe: img\colegiaturas\grado2\grupoC
+[2026-03-28 01:44:30] Directorio ya existe: img\colegiaturas\grado3\grupoA
+[2026-03-28 01:44:30] Directorio ya existe: img\colegiaturas\grado3\grupoB
+[2026-03-28 01:44:30] Directorio ya existe: img\colegiaturas\grado3\grupoC
+[2026-03-28 01:44:30] Estructura de directorios lista.
+
+[2026-03-28 01:44:30] Iniciando organización de archivos en: C:\Users\Mau\Desktop\Escuela\Semestres\personales\python\clases
+[2026-03-28 01:44:30] Archivo movido: certificado_grado1_grupoA_Mariana.jpg → img\certificados\grado1\grupoA/
+[2026-03-28 01:44:30] [OMITIDO] No se pudo determinar destino para: LICENSE
+[2026-03-28 01:44:30] [OMITIDO] No se pudo determinar destino para: README
+[2026-03-28 01:44:30] Organización completada.
+
